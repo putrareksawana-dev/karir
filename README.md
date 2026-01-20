@@ -15,9 +15,7 @@ Sistem informasi rekrutmen berbasis web yang dibangun menggunakan **CodeIgniter 
 
 ### 🛠️ Spesifikasi Teknis
 - **Framework:** CodeIgniter 3.1.13 (Stable)
-- **Bahasa:** PHP 7.4 / 8.x
 - **Database:** MySQL
-- **Template UI:** [Sebutkan jika kamu pakai Bootstrap atau AdminLTE]
 
 ### ⚙️ Cara Instalasi Lokal
 1. Download atau Clone repositori ini.
